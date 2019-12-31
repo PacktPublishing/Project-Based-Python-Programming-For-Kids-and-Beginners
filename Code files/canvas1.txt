@@ -1,0 +1,19 @@
+from tkinter import *
+
+tk=Tk()
+
+canvas = Canvas(tk, width=500, height=500, bg="pink")
+
+canvas.pack() #manager packs widgets in rows or columns
+
+#canvas.create_rectangle(10,10,50,50) #10,10 refers to the strating position on screen
+#top left
+
+#width 300 and height 100
+#canvas.create_rectangle(20,20,300,100)
+
+#width 100 and height 300
+canvas.create_rectangle(20,20,100,300)
+
+
+mainloop()

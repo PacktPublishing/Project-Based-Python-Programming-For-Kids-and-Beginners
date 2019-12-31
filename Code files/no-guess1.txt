@@ -1,0 +1,18 @@
+import random
+
+computer_no=random.randint(1,4) #store the random numbers generated using random
+
+def sameno(target,number):
+    if target == number:
+        result = "Win"
+
+    else:
+        result="Fail"
+
+    return result
+
+print("Lets guess a number")      
+
+guess=int(input("What is your guess?"))
+
+print(sameno(computer_no,guess))  

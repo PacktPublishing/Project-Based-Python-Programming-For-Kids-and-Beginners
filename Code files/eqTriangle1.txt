@@ -1,0 +1,19 @@
+import tkinter as tk
+import turtle
+
+root = tk.Tk()
+
+turtle.color("red")
+turtle.shape("turtle")
+
+turtle.forward(100) #pixels
+turtle.left(120)
+
+turtle.forward(100) #pixels
+turtle.left(120)
+
+turtle.forward(100) #pixels
+turtle.left(120)
+
+
+root.mainloop()

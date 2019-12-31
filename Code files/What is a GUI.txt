@@ -1,0 +1,4 @@
+What is a GUI?
+Graphical User Interface (GUI) is a way to communicate what you want to a computer application (or computer operating system) using graphical symbols rather than typing the instructions in. GUIs let you work with picture-like items (icons and arrows for example) to tell the computer what you want from it. 
+
+Tkinter is Python's de-facto standard GUI (Graphical User Interface) package.

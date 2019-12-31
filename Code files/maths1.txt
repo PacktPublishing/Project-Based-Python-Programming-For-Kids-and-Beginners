@@ -1,0 +1,23 @@
+## addition
+
+3+3
+
+##subtract
+
+4-3
+
+##multiply
+
+4*3
+
+##divide 
+
+9/3
+
+##modulo
+
+14/3
+
+##exponent
+
+4**2

@@ -1,0 +1,6 @@
+Different Python Data Structures
+Python data structures are used to store more than one value. While a given variable x can only store one value; x=2, a data structure can store more than one value. Some of the most common python data structures are:
+
+Lists
+Tuples 
+Dictionaries

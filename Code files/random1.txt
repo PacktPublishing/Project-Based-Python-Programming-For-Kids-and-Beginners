@@ -1,0 +1,16 @@
+import random  #helps generate random integers between a given set of integers
+
+die1=random.randint(1,6) 
+#will print random integers between 1 and 6 everytime we run .py
+#return a value >= x and <= y
+
+print(die1)
+
+die2=random.randrange(6)#will return a value >=x and < y
+
+print(die2)
+
+die3=random.randrange(1,8,2)#will return a value >=x and < y
+
+print(die3)
+

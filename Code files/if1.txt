@@ -1,0 +1,6 @@
+x=4
+
+if x>=6:
+    print("small")
+else:
+    print("big")    
